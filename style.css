@@ -1,0 +1,15 @@
+.kh{
+    width:500px;
+    height:100px;
+    background-color:transparent;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.c{
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+
+}
